@@ -1,0 +1,19 @@
+{
+  "CONFIG": {
+    "TITLE": "InfoDesio"
+  },
+  "MENU": [
+    {
+      "ICON": "f015",
+      "TITLE": "HOME",
+      "SUBTITLE": "",
+      "ENABLED": 1,
+      "VISIBLE": 1,
+      "ACTION": {
+        "TYPE": "WEB",
+        "LINKENABLED":0,
+        "PAGE": "https://raw.githubusercontent.com/InfoDesio/config/master/home.html"
+      }
+    }
+  ]
+}
