@@ -1,6 +1,6 @@
 {
   "CONFIG": {
-    "TITLE": "InfoDesio"
+
   },
   "MENU": [
     {
@@ -9,11 +9,28 @@
       "SUBTITLE": "",
       "ENABLED": 1,
       "VISIBLE": 1,
+      "DEFAULT":1,
       "ACTION": {
+        "NEWPAGE":0,
+        "TITLE":"InfoDesio",
         "TYPE": "WEB",
         "LINKENABLED":0,
         "PAGE": "https://raw.githubusercontent.com/InfoDesio/config/master/home.html"
-      }
+      },
+    {
+      "ICON": "f015",
+      "TITLE": "HOME 2",
+      "SUBTITLE": "",
+      "ENABLED": 1,
+      "VISIBLE": 1,
+      "DEFAULT":0,
+      "ACTION": {
+        "NEWPAGE":1,
+        "TITLE":"InfoDesio",
+        "TYPE": "WEB",
+        "LINKENABLED":1,
+        "PAGE": "https://raw.githubusercontent.com/InfoDesio/config/master/home.html"
+      }      
     }
   ]
 }
