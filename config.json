@@ -1,0 +1,18 @@
+{
+  "CONFIG": {
+    "HEADER_IMAGE": "HEADER.JPG",
+    "HEADER_TITLE": "InfoDesio",
+    "TITLE": "InfoDesio",
+    "SUBTITLE": "L'app della tua città"
+  },
+  "MENU": [
+    {
+      "ICON": "f015",
+      "TITLE": "HOME",
+      "SUBTITLE": "",
+      "ENABLED": 1,
+      "VISIBLE": 1,
+      "DEFAULT": 1
+    }
+  ]
+}
