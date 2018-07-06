@@ -3,7 +3,8 @@
     "HEADER_IMAGE": "HEADER.JPG",
     "HEADER_TITLE": "InfoDesio",
     "TITLE": "InfoDesio",
-    "SUBTITLE": "L'app della tua città"
+    "SUBTITLE": "L'app della tua città",
+    "VERSION": 1
   },
   "MENU": [
     {
@@ -13,6 +14,17 @@
       "ENABLED": 1,
       "VISIBLE": 1,
       "DEFAULT": 1
+    },
+    {
+      "ICON": "f021",
+      "TITLE": "Refresh Menu",
+      "SUBTITLE": "Aggiorna dati app",
+      "ENABLED": 1,
+      "VISIBLE": 1,
+      "DEFAULT": 0,
+      "ACTION": {
+        "TYPE": "REFRESH"
+      }
     }
   ]
 }
