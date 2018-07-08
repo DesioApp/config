@@ -1,4 +1,5 @@
 {
+  "VERSIONE": 1,
   "CONFIG": {
     "HEADER_IMAGE": "HEADER.JPG",
     "HEADER_TITLE": "InfoDesio",
@@ -14,6 +15,14 @@
       "ENABLED": 1,
       "VISIBLE": 1,
       "DEFAULT": 1
+    },
+    {
+      "ICON": "e80c",
+      "TITLE": "Scuola",
+      "SUBTITLE": "Menu e notizie",
+      "ENABLED": 1,
+      "VISIBLE": 1,
+      "DEFAULT": 0
     },
     {
       "ICON": "f021",
