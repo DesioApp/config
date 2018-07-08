@@ -1,5 +1,5 @@
 {
-  "VERSION": 1,
+  "VERSIONE": 1,
   "CONFIG": {
     "HEADER_IMAGE": "HEADER.JPG",
     "HEADER_TITLE": "InfoDesio",
@@ -22,7 +22,11 @@
       "SUBTITLE": "Menu e notizie",
       "ENABLED": 1,
       "VISIBLE": 1,
-      "DEFAULT": 0
+      "DEFAULT": 0,
+      "ACTION": {
+        "TYPE": "MODULE",
+        "NAME": "scuola"
+      }
     },
     {
       "ICON": "f021",
