@@ -7,11 +7,11 @@
     "HEADER_IMAGE": "HEADER.JPG",
     "HEADER_TITLE": "InfoDesio",
     "TITLE": "InfoDesio",
-    "SUBTITLE": "L'app della tua città",
-    "SIDEBAR": true
+    "SUBTITLE": "L'app della tua città"
   },
   "ACTION": {
     "TYPE": "MENU",
+    "SIDEBAR": true,
     "MENU": [
       {
         "ICON": "f015",
