@@ -4,8 +4,6 @@
     "VERSION": "1"
   },
   "CONFIG": {
-    "HEADER_IMAGE": "HEADER.JPG",
-    "HEADER_TITLE": "InfoDesio",
     "TITLE": "InfoDesio",
     "SUBTITLE": "L'app della tua città"
   },
