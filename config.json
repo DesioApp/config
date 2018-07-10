@@ -13,17 +13,13 @@
         "ICON": "f015",
         "TITLE": "HOME",
         "SUBTITLE": "",
-        "ENABLED": 1,
         "VISIBLE": 1,
-        "DEFAULT": 1
       },
       {
         "ICON": "e80c",
         "TITLE": "Scuola",
         "SUBTITLE": "Menu e notizie",
-        "ENABLED": 1,
         "VISIBLE": 1,
-        "DEFAULT": 0,
         "ACTION": {
           "TYPE": "MODULE",
           "NAME": "scuola"
@@ -33,9 +29,7 @@
         "ICON": "f021",
         "TITLE": "Refresh Menu",
         "SUBTITLE": "Aggiorna dati app",
-        "ENABLED": 1,
         "VISIBLE": 1,
-        "DEFAULT": 0,
         "ACTION": {
           "TYPE": "REFRESH"
         }
