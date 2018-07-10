@@ -3,11 +3,9 @@
   "APP": {
     "VERSION": "1"
   },
-  "CONFIG": {
-    "TITLE": "InfoDesio",
-    "SUBTITLE": "L'app della tua città"
-  },
   "ACTION": {
+    "TITLE": "InfoDesio",
+    "SUBTITLE": "L'app della tua città",    
     "TYPE": "MENU",
     "SIDEBAR": true,
     "MENU": [
