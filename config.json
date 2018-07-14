@@ -5,7 +5,7 @@
   },
   "ACTION": {
     "TITLE": "InfoDesio",
-    "SUBTITLE": "L'app della tua città",    
+    "SUBTITLE": "L'app della tua città",
     "TYPE": "MENU",
     "SIDEBAR": true,
     "MENU": [
@@ -14,6 +14,16 @@
         "TITLE": "HOME",
         "SUBTITLE": "",
         "VISIBLE": true
+      },
+      {
+        "ICON": "e56c",
+        "TITLE": "Ristorazione",
+        "SUBTITLE": "",
+        "VISIBLE": true,
+        "ACTION": {
+          "TYPE": "MODULE",
+          "NAME": "ristorazione"
+        }
       },
       {
         "ICON": "e80c",
