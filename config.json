@@ -1,7 +1,8 @@
 {
   "VERSION": 1,
   "APP": {
-    "VERSION": "1"
+    "VERSION": "1",
+    "TOKEN_FACEBOOK": "id4+TsWXE8bvQTswHcq5w40X5QJ8wwX5GDiyNAIf8chj/0CYzKf+LZcI0izg//63Ds+EbdivCGimSSFkE3wE4Gi7fsS5zhIwFqsmcXVQAhWO6x7IC2Kt+vK2sZottNaa8PUzp+A9jaPX2fvoExTkZfuNA+aj/+yI2UKlkA8T83OCfJ6+3qJwHE43cUHoMHHrB3viCJ2nlN7NG0Qg19y4KxuJ6JBK4lgY/iByKiukfWEbObnmfQhFlR3v/DHncL40sY7GKF5k5nlbwCTmI48GSkSKe9G/lSdrsveZyVy3V6uuh7N/avel1HEY9pppNcuQEH+IyMrx+9JB2OVlBEcaTQ=="
   },
   "ACTION": {
     "TITLE": "InfoDesio",
