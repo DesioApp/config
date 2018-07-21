@@ -43,7 +43,6 @@
         "ACTION": {
           "TYPE": "INTENT",
           "INTENT": {
-            "TYPE": "VIEW",
             "VALUE": "market://details?id=it.ipersoft.info.desio"
           }
         }
