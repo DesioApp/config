@@ -37,6 +37,18 @@
         }
       },
       {
+        "ICON": "e859",
+        "TITLE": "Play Store",
+        "VISIBLE": true,
+        "ACTION": {
+          "TYPE": "INTENT",
+          "INTENT": {
+            "TYPE": "VIEW",
+            "VALUE": "market://details?id=it.ipersoft.info.desio"
+          }
+        }
+      },
+      {
         "ICON": "f021",
         "TITLE": "Refresh Menu",
         "SUBTITLE": "Aggiorna dati app",
