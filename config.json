@@ -37,6 +37,16 @@
         }
       },
       {
+        "ICON": "f2bb",
+        "TITLE": "Contatti",
+        "SUBTITLE": "Medici, pediatri e altro",
+        "VISIBLE": true,
+        "ACTION": {
+          "TYPE": "MODULE",
+          "NAME": "contatti"
+        }
+      },
+      {
         "ICON": "e859",
         "TITLE": "Play Store",
         "VISIBLE": true,
