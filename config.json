@@ -23,7 +23,12 @@
         "VISIBLE": true,
         "ACTION": {
           "TYPE": "MODULE",
-          "NAME": "ristorazione"
+          "NAME": "ristorazione",
+          "MODULE": {
+            "DATASET": "ristorazione",
+            "FOLDER": "",
+            "FILE": "main.json"
+          }
         }
       },
       {
@@ -33,7 +38,12 @@
         "VISIBLE": true,
         "ACTION": {
           "TYPE": "MODULE",
-          "NAME": "scuola"
+          "NAME": "scuola",
+          "MODULE": {
+            "DATASET": "scuola",
+            "FOLDER": "",
+            "FILE": "main.json"
+          }
         }
       },
       {
@@ -43,7 +53,12 @@
         "VISIBLE": true,
         "ACTION": {
           "TYPE": "MODULE",
-          "NAME": "contatti"
+          "NAME": "contatti",
+          "MODULE": {
+            "DATASET": "contatti",
+            "FOLDER": "",
+            "FILE": "main.json"
+          }
         }
       },
       {
