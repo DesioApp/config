@@ -26,7 +26,6 @@
           "NAME": "ristorazione",
           "MODULE": {
             "DATASET": "ristorazione",
-            "FOLDER": "",
             "FILE": "main.json"
           }
         }
@@ -41,7 +40,6 @@
           "NAME": "scuola",
           "MODULE": {
             "DATASET": "scuola",
-            "FOLDER": "",
             "FILE": "main.json"
           }
         }
@@ -56,7 +54,6 @@
           "NAME": "contatti",
           "MODULE": {
             "DATASET": "contatti",
-            "FOLDER": "",
             "FILE": "main.json"
           }
         }
