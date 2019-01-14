@@ -1,1 +1,1 @@
-# config
+# Configurazione menu principale
