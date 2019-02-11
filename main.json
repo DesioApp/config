@@ -27,7 +27,25 @@
               "ICON": "f015",
               "TITLE": "Livello 2A",
               "SUBTITLE": "",
-              "VISIBLE": true
+              "VISIBLE": true,
+              "ACTION": {
+                "TYPE": "MENU",
+                "TITLE": "Livello 2A",
+                "MENU": [
+                  {
+                    "ICON": "f015",
+                    "TITLE": "Livello 3A",
+                    "SUBTITLE": "",
+                    "VISIBLE": true
+                  },
+                  {
+                    "ICON": "f015",
+                    "TITLE": "Livello 3B",
+                    "SUBTITLE": "",
+                    "VISIBLE": true
+                  }
+                ]
+              }
             },
             {
               "ICON": "f015",
