@@ -16,6 +16,28 @@
         "VISIBLE": true
       },
       {
+        "ICON": "e1B3",
+        "TITLE": "InfoCittà",
+        "SUBTITLE": "",
+        "VISIBLE": true,
+        "ACTION": {
+          "TITLE": "Infocittà",
+          "TYPE": "MENU",
+          "MENU": [
+            {
+              "TITLE": "Pediatri",
+              "ACTION": {
+                "TYPE": "FILE",
+                "FILE": {
+                  "DATASET":"poi_pediatri",
+                  "FILE":"main.json"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
         "ICON": "e859",
         "TITLE": "Play Store",
         "VISIBLE": true,
